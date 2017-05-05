@@ -1,6 +1,6 @@
 # Git and Github - Assignment 1
 
-## Install Git and Github 
+## Setup Git and Github 
 
 ### GitHub
 * Create an account at [Github](https://github.com/)
