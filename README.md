@@ -11,7 +11,7 @@
 * Verify the installation was successful by typing <br />
   `git --version`
 #### Linux
-* In Git packages are available via (apt)(https://wiki.debian.org/Apt)
+* In Git packages are available via [apt](https://wiki.debian.org/Apt)
 * From your terminal first update you apt by running command <br />
   `sudo apt-get update`
 * Now install git by runing command <br />
