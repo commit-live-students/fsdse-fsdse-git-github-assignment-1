@@ -7,7 +7,7 @@
 ### Git
 #### Mac OS X
 * Installed Homebrew - OS X Package Manager (skip this step if you already have Homebrew installed)  <br />
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)`
 * Open your terminal and install Git using Homebrew <br />
   `brew install git`
 * Verify the installation was successful by typing <br />
