@@ -3,7 +3,7 @@
 ## Setup Git and Github 
 
 ### GitHub
-* Create an account at [Github](https://github.com/)
+* Create an account at [Github](https://github.com/) - skip if you already have Github acccount
 * There’s nothing to install
 
 ### Git
