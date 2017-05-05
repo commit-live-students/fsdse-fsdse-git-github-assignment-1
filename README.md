@@ -6,7 +6,7 @@
 
 ### Git
 #### Mac OS
-* Open your terminal and install Git using Homebrew
+* Open your terminal and install Git using Homebrew \n
   `brew install git`
 * Verify the installation was successful by typing
   `
