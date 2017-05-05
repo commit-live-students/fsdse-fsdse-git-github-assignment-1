@@ -21,9 +21,12 @@
 * Verify the installation was successful by typing command <br />
   `git --version`
 #### Configure 
-* Configure your Git username and email using the following commands. These details will be associated with any commits that you create.
+* Configure your Git username and email using the following commands. These details will be associated with any commits that you create <br />
 `
 git config --global user.name “YOUR USERNAME”
+
+` <br />
+`
 git config --global user.email “YOUR EMAIL”
 `
 * Use the same email address you used with your GitHub account
