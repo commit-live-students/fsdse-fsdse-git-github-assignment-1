@@ -6,23 +6,15 @@
 
 ### Git
 #### Mac OS
-* Open your terminal and install Git using Homebrew \n
+* Open your terminal and install Git using Homebrew <br />
   `brew install git`
 * Verify the installation was successful by typing
-  `
-  git --version
-  `
+  `git --version`
 #### Linux
 * In Git packages are available via (apt)(https://wiki.debian.org/Apt)
 * From your terminal first update you apt by running command
-  `
-  sudo apt-get update
-  `
+  `sudo apt-get update`
 * Now install git by runing this command
-  `
-  sudo apt-get install git
-  `
+  `sudo apt-get install git`
 * Verify the installation was successful by typing
-  `
-  git --version
-  `
+  `git --version`
