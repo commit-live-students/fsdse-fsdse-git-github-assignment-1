@@ -16,11 +16,11 @@
   `
 #### Linux
 * In Git packages are available via (apt)(https://wiki.debian.org/Apt)
-* From your terminal first update you apt by running below command
+* From your terminal first update you apt by running command
   `
   sudo apt-get update
   `
-* Now install git by runing this command in terminal
+* Now install git by runing this command
   `
   sudo apt-get install git
   `
