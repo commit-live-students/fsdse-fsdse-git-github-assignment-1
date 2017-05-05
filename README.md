@@ -22,12 +22,7 @@
   `git --version`
 #### Configure 
 * Configure your Git username and email using the following commands. These details will be associated with any commits that you create <br />
-`
-git config --global user.name “YOUR USERNAME”
-
-` <br />
-`
-git config --global user.email “YOUR EMAIL”
-`
+`git config --global user.name “YOUR USERNAME”`
+`git config --global user.email “YOUR EMAIL”`
 * Use the same email address you used with your GitHub account
 * (Optional) To make Git remember your username and password follow [add new ssh key to your github account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/). 
