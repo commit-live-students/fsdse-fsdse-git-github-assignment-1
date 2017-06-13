@@ -5,7 +5,7 @@
 ## Setup Git and Github 
 
 ### GitHub
-* Create an account at [Github](https://github.com/) - skip if you already have Github acccount
+* Create an account at [Github](https://github.com/) - skip if you already have Github account
 * There’s nothing to install
 
 ### Git
@@ -28,7 +28,7 @@
 
         sudo apt-get update
 
-* Now install git by runing command <br />
+* Now install git by running command <br />
 
         sudo apt-get install git
 
